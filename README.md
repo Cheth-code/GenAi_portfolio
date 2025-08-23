@@ -19,7 +19,7 @@ Through this repo, I’m documenting my journey of:
 Here’s a list of projects I’ve worked on so far (will keep updating):
 
 1. **PDF_RAG** → Retrieval-Augmented Generation (RAG) on PDFs for question-answering.  
-2. *(More projects coming soon...)*  
+2. **PERSONA_AI_CHANAKYA** → Persona_AI of Archarya Chanakaya, who thinks and answers like Chanakaya.
 
 ---
 
