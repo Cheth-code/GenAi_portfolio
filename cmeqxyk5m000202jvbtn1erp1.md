@@ -1,6 +1,6 @@
 ---
 title: "Graph It Till You Make It"
-seoTitle: " LangGraph Explained: Graph it till you make it"
+seoTitle: "LangGraph Explained: Graph it till you make it"
 seoDescription: "Discover how LangGraph helps developers orchestrate complex AI workflows. Learn why it’s the traffic controller for LLMs, agents, and RAG systems."
 datePublished: Mon Aug 25 2025 09:55:23 GMT+0000 (Coordinated Universal Time)
 cuid: cmeqxyk5m000202jvbtn1erp1
@@ -51,7 +51,7 @@ LLMs are powerful, but…
     Think of it as **React.js for your AI app’s logic**—modular, predictable, and easy to debug.
     
 
-## THE CODE PART
+## 4 . THE CODE PART
 
 ### 1\. Define Your State
 
@@ -101,13 +101,13 @@ response = graph.invoke(initial_state)
 print(response)
 ```
 
-## Conclusion
+## 5 . Conclusion
 
 LangGraph is the **traffic controller for your AI agents**. It ensures they don’t crash into each other, don’t get lost, and reach the right destination—every single time.
 
 As GenAI apps move from toys to production, **predictability &gt; magic**. LangGraph brings that predictability.
 
-## 8\. Call to Action
+## 6 . Call to Action
 
 💡 Next time you build with LangChain, don’t just stack functions. Sketch your workflow as a graph, let LangGraph do the heavy lifting, and enjoy cleaner, smarter, and more reliable AI apps.
 
@@ -119,7 +119,7 @@ As GenAI apps move from toys to production, **predictability &gt; magic**. LangG
 
 👉 Explore the LangGraph docs and start experimenting today.
 
-## Related Resources
+## 7 . Related Resources
 
 * LangGraph Documentation
     
