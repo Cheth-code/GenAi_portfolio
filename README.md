@@ -1,45 +1,66 @@
 # 🚀 Generative AI
 
-Welcome to my **Generative AI Portfolio**!  
-This repository is where I explore, learn, and build simple Generative AI projects.  
-I’ll be updating it regularly as I grow and experiment with different models, tools, and ideas.
+Welcome to my **Generative AI Portfolio** — a space where curiosity meets creation.  
+Here I explore, learn, and build projects around Generative AI — from small experiments to evolving prototypes.  
+This repo grows with me as I keep tinkering with new models, tools, and ideas.
 
 ---
 
 ## 📌 About
-Generative AI is one of the most exciting fields in AI today.  
+
+Generative AI is shaping how we create, think, and interact with technology.  
 Through this repo, I’m documenting my journey of:
-- Learning the fundamentals of GenAI.
-- Building small but meaningful projects.
-- Improving them step by step as my knowledge grows.
+
+- Understanding the **core concepts** behind GenAI systems.  
+- Building **hands-on projects** that connect theory to application.  
+- Iterating and refining as I learn from both successes and mistakes.  
 
 ---
 
-## 🛠️ Projects
-Here’s a list of projects I’ve worked on so far (will keep updating):
+## 🛠️ Featured Projects
 
-1. **PDF_RAG** → Retrieval-Augmented Generation (RAG) on PDFs for question-answering.  
-2. **PERSONA_AI_CHANAKYA** → Persona_AI of Archarya Chanakaya, who thinks and answers like Chanakaya.
+| Project | Description | Stack |
+|----------|--------------|--------|
+| **PDF_RAG** | Retrieval-Augmented Generation (RAG) on PDFs for question answering. | LangChain, OpenAI API, FAISS |
+| **PERSONA_AI_CHANAKYA** | Simulated persona of Acharya Chanakya — responses inspired by his philosophy. | LLMs, Prompt Engineering |
+| **Prompt_Playground** | Sandbox for testing prompt structures and model behaviors. | Streamlit, OpenAI API |
+| **VoiceGen_Prototype** | Early attempt at text-to-speech with expressive tuning. | TTS Models, Python |
+
+*(New projects are added as I experiment further.)*
+
+---
+
+## 📚 Learnings & Experiments
+
+- Explored **context length** limits and prompt chaining in RAG.  
+- Studied **persona grounding** to make AI replies consistent with tone and character.  
+- Played with **multimodal fusion** — combining text and vision models.  
+- Iterated through **deployment basics** using Streamlit and simple REST APIs.  
 
 ---
 
 ## 🔮 Roadmap
-- Build more GenAI mini-projects.  
-- Learn to fine-tune and customize models.  
-- Explore multimodal AI (text + image + audio).  
-- Deploy projects for real-world use.  
+
+- [ ] Fine-tune small models for domain-specific outputs.  
+- [ ] Build an interactive GenAI dashboard.  
+- [ ] Explore text + audio co-generation.  
+- [ ] Deploy projects for real-world demos.  
 
 ---
 
 ## 🤝 Contributing
-This is a personal learning repo, but if you have suggestions or resources, feel free to open an issue or pull request.
+
+This is a personal learning repository, but if you have ideas, resources, or feedback,  
+Feel free to open an issue or pull request — collaboration fuels learning.
 
 ---
 
 ## 📬 Contact
+
 👤 **Chethan G** (@Cheth-code)  
-🌍 Location: Bangalore  
-💡 Curious & philosophical, building things that matter to a few but make sense.  
+🌍 **Bangalore, India**  
+💭 *Curious mind exploring how intelligence can be made generative, not just predictive.*
 
 ---
-✨ Stay tuned for more updates as I grow in the world of **Generative AI**!
+
+✨ *The more I build, the clearer the questions become. Stay tuned for what emerges next.*
